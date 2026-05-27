@@ -1,84 +1,84 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-05-27 09:50:55 IST
+Last updated: 2026-05-27 10:22:12 IST
 
 ## RELIANCE_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹1359.30
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## HDFCBANK_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹764.15
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## ICICIBANK_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹1281.90
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## INFY_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹1158.10
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## TCS_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹2265.50
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## ITC_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹293.10
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## HINDUNILVR_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹2201.90
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## SBIN_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹969.20
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## BHARTIARTL_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹1846.40
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## KOTAKBANK_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹387.85
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## LT_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹4053.00
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## AXISBANK_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹1297.00
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## BAJFINANCE_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹924.40
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## ASIANPAINT_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹2663.80
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## MARUTI_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹13200.00
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## SUNPHARMA_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹1837.80
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## WIPRO_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹202.88
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## POWERGRID_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹296.80
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## NTPC_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹396.90
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
 ## ONGC_NS
 
-**Latest:** 2026-05-27 09:50:00 | **Price:** ₹278.90
-
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
