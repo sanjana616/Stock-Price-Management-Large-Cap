@@ -1,84 +1,164 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-05-29 15:49:33 IST
+Last updated: 2026-05-29 15:53:38 IST
 
 ## RELIANCE_NS
 
-**Latest:** 2026-05-29 15:29:00 | **Price:** ₹1321.90
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>1321.9000244140625</td><td>299580</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>1318.0999755859375</td><td>533303</td></tr>
+</table>
 
 ## HDFCBANK_NS
 
-**Latest:** 2026-05-29 15:29:00 | **Price:** ₹747.25
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>747.25</td><td>249656</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>746.25</td><td>701630</td></tr>
+</table>
 
 ## ICICIBANK_NS
 
-**Latest:** 2026-05-29 15:29:00 | **Price:** ₹1259.00
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>1259.0</td><td>70018</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>1259.699951171875</td><td>378760</td></tr>
+</table>
 
 ## INFY_NS
 
-**Latest:** 2026-05-29 15:29:00 | **Price:** ₹1156.50
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>1156.5</td><td>1092205</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>1156.5</td><td>956392</td></tr>
+</table>
 
 ## TCS_NS
 
-**Latest:** 2026-05-29 15:29:00 | **Price:** ₹2256.00
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>2256.0</td><td>70944</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>2255.60009765625</td><td>104019</td></tr>
+</table>
 
 ## ITC_NS
 
-**Latest:** 2026-05-29 15:29:00 | **Price:** ₹287.80
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>287.79998779296875</td><td>234659</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>287.25</td><td>371662</td></tr>
+</table>
 
 ## HINDUNILVR_NS
 
-**Latest:** 2026-05-29 15:29:00 | **Price:** ₹2161.50
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>2161.5</td><td>74963</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>2149.199951171875</td><td>89099</td></tr>
+</table>
 
 ## SBIN_NS
 
-**Latest:** 2026-05-29 15:29:00 | **Price:** ₹965.00
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>965.0</td><td>77816</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>964.2999877929688</td><td>175160</td></tr>
+</table>
 
 ## BHARTIARTL_NS
 
-**Latest:** 2026-05-29 15:28:00 | **Price:** ₹1835.70
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>1835.699951171875</td><td>548948</td></tr>
+  <tr><td>2026-05-29 15:27:00</td><td>1829.699951171875</td><td>904768</td></tr>
+</table>
 
 ## KOTAKBANK_NS
 
-**Latest:** 2026-05-29 15:28:00 | **Price:** ₹384.40
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>384.3999938964844</td><td>947232</td></tr>
+  <tr><td>2026-05-29 15:27:00</td><td>384.45001220703125</td><td>1113034</td></tr>
+</table>
 
 ## LT_NS
 
-**Latest:** 2026-05-29 15:28:00 | **Price:** ₹4080.00
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>4076.5</td><td>10133</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>4080.0</td><td>54810</td></tr>
+</table>
 
 ## AXISBANK_NS
 
-**Latest:** 2026-05-29 15:29:00 | **Price:** ₹1291.00
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>1291.0</td><td>28513</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>1289.699951171875</td><td>293965</td></tr>
+</table>
 
 ## BAJFINANCE_NS
 
-**Latest:** 2026-05-29 15:29:00 | **Price:** ₹909.80
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>909.7999877929688</td><td>408185</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>898.7999877929688</td><td>901397</td></tr>
+</table>
 
 ## ASIANPAINT_NS
 
-**Latest:** 2026-05-29 15:28:00 | **Price:** ₹2682.10
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>2682.10009765625</td><td>39253</td></tr>
+  <tr><td>2026-05-29 15:27:00</td><td>2678.10009765625</td><td>62094</td></tr>
+</table>
 
 ## MARUTI_NS
 
-**Latest:** 2026-05-29 15:29:00 | **Price:** ₹13200.00
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>13200.0</td><td>6382</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>13129.0</td><td>12305</td></tr>
+</table>
 
 ## SUNPHARMA_NS
 
-**Latest:** 2026-05-29 15:28:00 | **Price:** ₹1797.90
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>1799.199951171875</td><td>30998</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>1797.9000244140625</td><td>164002</td></tr>
+</table>
 
 ## WIPRO_NS
 
-**Latest:** 2026-05-29 15:29:00 | **Price:** ₹204.30
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>204.3000030517578</td><td>274331</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>204.0</td><td>483216</td></tr>
+</table>
 
 ## POWERGRID_NS
 
-**Latest:** 2026-05-29 15:29:00 | **Price:** ₹287.70
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>287.70001220703125</td><td>1321607</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>289.04998779296875</td><td>627796</td></tr>
+</table>
 
 ## NTPC_NS
 
-**Latest:** 2026-05-29 15:29:00 | **Price:** ₹389.00
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>389.0</td><td>101018</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>387.5</td><td>275901</td></tr>
+</table>
 
 ## ONGC_NS
 
-**Latest:** 2026-05-29 15:29:00 | **Price:** ₹265.85
+<table>
+  <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-05-29 15:29:00</td><td>265.8500061035156</td><td>91678</td></tr>
+  <tr><td>2026-05-29 15:28:00</td><td>265.6499938964844</td><td>415883</td></tr>
+</table>
 
