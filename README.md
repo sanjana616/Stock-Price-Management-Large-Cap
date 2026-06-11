@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-06-11 16:01:08 IST
+Last updated: 2026-06-11 16:15:59 IST
 
 ## RELIANCE_NS
 
@@ -54,8 +54,8 @@ Last updated: 2026-06-11 16:01:08 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-11 15:29:00</td><td>2139.800048828125</td><td>2657</td></tr>
   <tr><td>2026-06-11 15:28:00</td><td>2143.800048828125</td><td>6450</td></tr>
-  <tr><td>2026-06-11 15:27:00</td><td>2144.5</td><td>8023</td></tr>
 </table>
 
 ## SBIN_NS
