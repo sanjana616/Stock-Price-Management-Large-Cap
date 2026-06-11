@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-06-11 15:45:55 IST
+Last updated: 2026-06-11 16:01:08 IST
 
 ## RELIANCE_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-06-11 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-11 15:29:00</td><td>744.5999755859375</td><td>69628</td></tr>
   <tr><td>2026-06-11 15:28:00</td><td>745.0499877929688</td><td>94367</td></tr>
-  <tr><td>2026-06-11 15:27:00</td><td>745.0999755859375</td><td>113855</td></tr>
 </table>
 
 ## ICICIBANK_NS
@@ -78,8 +78,8 @@ Last updated: 2026-06-11 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-11 15:29:00</td><td>393.3500061035156</td><td>20905</td></tr>
   <tr><td>2026-06-11 15:28:00</td><td>393.45001220703125</td><td>98753</td></tr>
-  <tr><td>2026-06-11 15:27:00</td><td>393.70001220703125</td><td>46114</td></tr>
 </table>
 
 ## LT_NS
@@ -94,8 +94,8 @@ Last updated: 2026-06-11 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-11 15:29:00</td><td>1317.300048828125</td><td>23795</td></tr>
   <tr><td>2026-06-11 15:28:00</td><td>1318.0</td><td>44201</td></tr>
-  <tr><td>2026-06-11 15:27:00</td><td>1318.4000244140625</td><td>34070</td></tr>
 </table>
 
 ## BAJFINANCE_NS
@@ -110,8 +110,8 @@ Last updated: 2026-06-11 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-11 15:29:00</td><td>2690.89990234375</td><td>2199</td></tr>
   <tr><td>2026-06-11 15:28:00</td><td>2692.0</td><td>8413</td></tr>
-  <tr><td>2026-06-11 15:27:00</td><td>2697.39990234375</td><td>7146</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -126,8 +126,8 @@ Last updated: 2026-06-11 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-11 15:29:00</td><td>1794.199951171875</td><td>5750</td></tr>
   <tr><td>2026-06-11 15:28:00</td><td>1790.5</td><td>12064</td></tr>
-  <tr><td>2026-06-11 15:27:00</td><td>1793.5</td><td>19110</td></tr>
 </table>
 
 ## WIPRO_NS
@@ -142,8 +142,8 @@ Last updated: 2026-06-11 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-11 15:29:00</td><td>286.6499938964844</td><td>64876</td></tr>
   <tr><td>2026-06-11 15:28:00</td><td>287.1499938964844</td><td>66965</td></tr>
-  <tr><td>2026-06-11 15:27:00</td><td>287.1000061035156</td><td>74021</td></tr>
 </table>
 
 ## NTPC_NS
