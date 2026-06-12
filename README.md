@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-06-12 15:45:51 IST
+Last updated: 2026-06-12 16:01:10 IST
 
 ## RELIANCE_NS
 
@@ -22,16 +22,16 @@ Last updated: 2026-06-12 15:45:51 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-12 15:29:00</td><td>1340.800048828125</td><td>55837</td></tr>
   <tr><td>2026-06-12 15:28:00</td><td>1340.9000244140625</td><td>69151</td></tr>
-  <tr><td>2026-06-12 15:27:00</td><td>1341.5</td><td>86518</td></tr>
 </table>
 
 ## INFY_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-12 15:29:00</td><td>1116.4000244140625</td><td>52134</td></tr>
   <tr><td>2026-06-12 15:28:00</td><td>1117.4000244140625</td><td>53624</td></tr>
-  <tr><td>2026-06-12 15:27:00</td><td>1116.9000244140625</td><td>192780</td></tr>
 </table>
 
 ## TCS_NS
@@ -70,8 +70,8 @@ Last updated: 2026-06-12 15:45:51 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-12 15:29:00</td><td>1822.5</td><td>9565</td></tr>
   <tr><td>2026-06-12 15:28:00</td><td>1821.300048828125</td><td>66287</td></tr>
-  <tr><td>2026-06-12 15:27:00</td><td>1824.4000244140625</td><td>36894</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -94,16 +94,16 @@ Last updated: 2026-06-12 15:45:51 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-12 15:29:00</td><td>1356.300048828125</td><td>13073</td></tr>
   <tr><td>2026-06-12 15:28:00</td><td>1352.800048828125</td><td>9588</td></tr>
-  <tr><td>2026-06-12 15:27:00</td><td>1353.5999755859375</td><td>17615</td></tr>
 </table>
 
 ## BAJFINANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-12 15:29:00</td><td>918.2999877929688</td><td>50975</td></tr>
   <tr><td>2026-06-12 15:28:00</td><td>919.9500122070312</td><td>57950</td></tr>
-  <tr><td>2026-06-12 15:27:00</td><td>919.9500122070312</td><td>63931</td></tr>
 </table>
 
 ## ASIANPAINT_NS
@@ -126,8 +126,8 @@ Last updated: 2026-06-12 15:45:51 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-12 15:29:00</td><td>1807.699951171875</td><td>4503</td></tr>
   <tr><td>2026-06-12 15:28:00</td><td>1805.199951171875</td><td>7509</td></tr>
-  <tr><td>2026-06-12 15:27:00</td><td>1806.9000244140625</td><td>7311</td></tr>
 </table>
 
 ## WIPRO_NS
