@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-06-15 15:46:05 IST
+Last updated: 2026-06-15 16:01:17 IST
 
 ## RELIANCE_NS
 
@@ -30,8 +30,8 @@ Last updated: 2026-06-15 15:46:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-15 15:29:00</td><td>1134.9000244140625</td><td>16641</td></tr>
   <tr><td>2026-06-15 15:28:00</td><td>1135.5</td><td>52685</td></tr>
-  <tr><td>2026-06-15 15:27:00</td><td>1135.9000244140625</td><td>33921</td></tr>
 </table>
 
 ## TCS_NS
@@ -70,8 +70,8 @@ Last updated: 2026-06-15 15:46:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-15 15:29:00</td><td>1841.199951171875</td><td>16576</td></tr>
   <tr><td>2026-06-15 15:28:00</td><td>1841.0999755859375</td><td>23099</td></tr>
-  <tr><td>2026-06-15 15:27:00</td><td>1840.5</td><td>30812</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -94,8 +94,8 @@ Last updated: 2026-06-15 15:46:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-15 15:29:00</td><td>1368.300048828125</td><td>5659</td></tr>
   <tr><td>2026-06-15 15:28:00</td><td>1364.5999755859375</td><td>9618</td></tr>
-  <tr><td>2026-06-15 15:27:00</td><td>1365.300048828125</td><td>30043</td></tr>
 </table>
 
 ## BAJFINANCE_NS
@@ -118,8 +118,8 @@ Last updated: 2026-06-15 15:46:05 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-15 15:29:00</td><td>13805.0</td><td>3843</td></tr>
   <tr><td>2026-06-15 15:28:00</td><td>13802.0</td><td>1497</td></tr>
-  <tr><td>2026-06-15 15:27:00</td><td>13798.0</td><td>2268</td></tr>
 </table>
 
 ## SUNPHARMA_NS
