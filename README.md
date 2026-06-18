@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-06-18 15:45:59 IST
+Last updated: 2026-06-18 16:01:08 IST
 
 ## RELIANCE_NS
 
@@ -70,8 +70,8 @@ Last updated: 2026-06-18 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-18 15:29:00</td><td>1874.800048828125</td><td>26278</td></tr>
   <tr><td>2026-06-18 15:28:00</td><td>1873.0</td><td>22309</td></tr>
-  <tr><td>2026-06-18 15:27:00</td><td>1874.300048828125</td><td>39577</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -86,8 +86,8 @@ Last updated: 2026-06-18 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-18 15:29:00</td><td>4190.0</td><td>4315</td></tr>
   <tr><td>2026-06-18 15:28:00</td><td>4193.0</td><td>10860</td></tr>
-  <tr><td>2026-06-18 15:27:00</td><td>4191.60009765625</td><td>7868</td></tr>
 </table>
 
 ## AXISBANK_NS
@@ -110,8 +110,8 @@ Last updated: 2026-06-18 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-18 15:29:00</td><td>2755.0</td><td>2068</td></tr>
   <tr><td>2026-06-18 15:28:00</td><td>2751.800048828125</td><td>6797</td></tr>
-  <tr><td>2026-06-18 15:27:00</td><td>2750.0</td><td>4989</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -126,8 +126,8 @@ Last updated: 2026-06-18 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-18 15:29:00</td><td>1824.800048828125</td><td>3620</td></tr>
   <tr><td>2026-06-18 15:28:00</td><td>1825.800048828125</td><td>9866</td></tr>
-  <tr><td>2026-06-18 15:27:00</td><td>1827.199951171875</td><td>24248</td></tr>
 </table>
 
 ## WIPRO_NS
@@ -150,8 +150,8 @@ Last updated: 2026-06-18 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-18 15:29:00</td><td>361.95001220703125</td><td>25392</td></tr>
   <tr><td>2026-06-18 15:28:00</td><td>362.54998779296875</td><td>108904</td></tr>
-  <tr><td>2026-06-18 15:27:00</td><td>361.95001220703125</td><td>60273</td></tr>
 </table>
 
 ## ONGC_NS
