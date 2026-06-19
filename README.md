@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-06-19 15:46:04 IST
+Last updated: 2026-06-19 16:01:17 IST
 
 ## RELIANCE_NS
 
@@ -78,8 +78,8 @@ Last updated: 2026-06-19 15:46:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>399.25</td><td>29016</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>398.8500061035156</td><td>82385</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>399.45001220703125</td><td>205266</td></tr>
 </table>
 
 ## LT_NS
@@ -94,8 +94,8 @@ Last updated: 2026-06-19 15:46:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>1357.9000244140625</td><td>20534</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>1359.9000244140625</td><td>155563</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>1358.0999755859375</td><td>83332</td></tr>
 </table>
 
 ## BAJFINANCE_NS
@@ -110,16 +110,16 @@ Last updated: 2026-06-19 15:46:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>2732.89990234375</td><td>1859</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>2739.0</td><td>6337</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>2736.89990234375</td><td>13685</td></tr>
 </table>
 
 ## MARUTI_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>13395.0</td><td>1748</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>13434.0</td><td>2807</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>13420.0</td><td>28156</td></tr>
 </table>
 
 ## SUNPHARMA_NS
@@ -150,8 +150,8 @@ Last updated: 2026-06-19 15:46:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-19 15:29:00</td><td>365.79998779296875</td><td>22299</td></tr>
   <tr><td>2026-06-19 15:28:00</td><td>365.6499938964844</td><td>117001</td></tr>
-  <tr><td>2026-06-19 15:27:00</td><td>366.0</td><td>252433</td></tr>
 </table>
 
 ## ONGC_NS
