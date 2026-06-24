@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-06-24 15:46:04 IST
+Last updated: 2026-06-24 16:01:17 IST
 
 ## RELIANCE_NS
 
@@ -62,8 +62,8 @@ Last updated: 2026-06-24 15:46:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-24 15:29:00</td><td>1034.5999755859375</td><td>19919</td></tr>
   <tr><td>2026-06-24 15:28:00</td><td>1034.8499755859375</td><td>42920</td></tr>
-  <tr><td>2026-06-24 15:27:00</td><td>1034.9000244140625</td><td>35127</td></tr>
 </table>
 
 ## BHARTIARTL_NS
@@ -94,8 +94,8 @@ Last updated: 2026-06-24 15:46:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-24 15:29:00</td><td>1384.5</td><td>9283</td></tr>
   <tr><td>2026-06-24 15:28:00</td><td>1382.5</td><td>29956</td></tr>
-  <tr><td>2026-06-24 15:27:00</td><td>1383.300048828125</td><td>47523</td></tr>
 </table>
 
 ## BAJFINANCE_NS
@@ -110,8 +110,8 @@ Last updated: 2026-06-24 15:46:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-24 15:29:00</td><td>2667.5</td><td>1784</td></tr>
   <tr><td>2026-06-24 15:28:00</td><td>2671.60009765625</td><td>7231</td></tr>
-  <tr><td>2026-06-24 15:27:00</td><td>2670.199951171875</td><td>7581</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -126,8 +126,8 @@ Last updated: 2026-06-24 15:46:04 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-24 15:29:00</td><td>1874.4000244140625</td><td>2738</td></tr>
   <tr><td>2026-06-24 15:28:00</td><td>1874.0</td><td>7295</td></tr>
-  <tr><td>2026-06-24 15:27:00</td><td>1874.5</td><td>15781</td></tr>
 </table>
 
 ## WIPRO_NS
