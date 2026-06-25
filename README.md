@@ -1,13 +1,13 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-06-25 15:45:59 IST
+Last updated: 2026-06-25 16:01:23 IST
 
 ## RELIANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>1318.0999755859375</td><td>34243</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>1317.0</td><td>68894</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>1316.0</td><td>84770</td></tr>
 </table>
 
 ## HDFCBANK_NS
@@ -22,8 +22,8 @@ Last updated: 2026-06-25 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>1387.5</td><td>75746</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>1385.699951171875</td><td>173518</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>1389.800048828125</td><td>78257</td></tr>
 </table>
 
 ## INFY_NS
@@ -78,8 +78,8 @@ Last updated: 2026-06-25 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>409.0</td><td>16870</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>409.3999938964844</td><td>157645</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>409.04998779296875</td><td>151854</td></tr>
 </table>
 
 ## LT_NS
@@ -94,32 +94,32 @@ Last updated: 2026-06-25 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>1377.199951171875</td><td>11062</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>1377.800048828125</td><td>35449</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>1379.0999755859375</td><td>56814</td></tr>
 </table>
 
 ## BAJFINANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>980.4000244140625</td><td>12909</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>981.5</td><td>43086</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>981.25</td><td>89269</td></tr>
 </table>
 
 ## ASIANPAINT_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>2645.199951171875</td><td>3734</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>2640.0</td><td>15809</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>2645.10009765625</td><td>22787</td></tr>
 </table>
 
 ## MARUTI_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-25 15:29:00</td><td>13745.0</td><td>821</td></tr>
   <tr><td>2026-06-25 15:28:00</td><td>13760.0</td><td>2238</td></tr>
-  <tr><td>2026-06-25 15:27:00</td><td>13756.0</td><td>4573</td></tr>
 </table>
 
 ## SUNPHARMA_NS
