@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-06-29 15:45:55 IST
+Last updated: 2026-06-29 16:01:07 IST
 
 ## RELIANCE_NS
 
@@ -70,8 +70,8 @@ Last updated: 2026-06-29 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>1841.0999755859375</td><td>24243</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>1847.0</td><td>83773</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>1846.5</td><td>203218</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -94,24 +94,24 @@ Last updated: 2026-06-29 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>1356.800048828125</td><td>20588</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>1370.9000244140625</td><td>75449</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>1368.0999755859375</td><td>127913</td></tr>
 </table>
 
 ## BAJFINANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>982.0499877929688</td><td>40570</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>990.2999877929688</td><td>93314</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>985.75</td><td>234416</td></tr>
 </table>
 
 ## ASIANPAINT_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>2656.89990234375</td><td>16317</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>2665.0</td><td>41711</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>2664.89990234375</td><td>100776</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -134,31 +134,31 @@ Last updated: 2026-06-29 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>175.47999572753906</td><td>79739</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>175.8000030517578</td><td>253297</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>175.5800018310547</td><td>216883</td></tr>
 </table>
 
 ## POWERGRID_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>286.25</td><td>16638</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>286.70001220703125</td><td>82932</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>287.04998779296875</td><td>167177</td></tr>
 </table>
 
 ## NTPC_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>356.1000061035156</td><td>44615</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>354.6000061035156</td><td>254651</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>354.1000061035156</td><td>740289</td></tr>
 </table>
 
 ## ONGC_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-29 15:29:00</td><td>234.0500030517578</td><td>63215</td></tr>
   <tr><td>2026-06-29 15:28:00</td><td>233.9499969482422</td><td>265559</td></tr>
-  <tr><td>2026-06-29 15:27:00</td><td>233.9499969482422</td><td>323157</td></tr>
 </table>
 
