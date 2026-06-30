@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-06-30 15:45:56 IST
+Last updated: 2026-06-30 16:01:07 IST
 
 ## RELIANCE_NS
 
@@ -22,8 +22,8 @@ Last updated: 2026-06-30 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-30 15:29:00</td><td>1375.199951171875</td><td>56970</td></tr>
   <tr><td>2026-06-30 15:28:00</td><td>1379.300048828125</td><td>179303</td></tr>
-  <tr><td>2026-06-30 15:27:00</td><td>1378.4000244140625</td><td>127618</td></tr>
 </table>
 
 ## INFY_NS
@@ -94,24 +94,24 @@ Last updated: 2026-06-30 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-30 15:29:00</td><td>1345.699951171875</td><td>7783</td></tr>
   <tr><td>2026-06-30 15:28:00</td><td>1352.5</td><td>60137</td></tr>
-  <tr><td>2026-06-30 15:27:00</td><td>1350.699951171875</td><td>64913</td></tr>
 </table>
 
 ## BAJFINANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-30 15:29:00</td><td>1004.75</td><td>14955</td></tr>
   <tr><td>2026-06-30 15:28:00</td><td>1007.4000244140625</td><td>44524</td></tr>
-  <tr><td>2026-06-30 15:27:00</td><td>1006.2999877929688</td><td>66082</td></tr>
 </table>
 
 ## ASIANPAINT_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-30 15:29:00</td><td>2635.699951171875</td><td>2739</td></tr>
   <tr><td>2026-06-30 15:28:00</td><td>2638.0</td><td>14212</td></tr>
-  <tr><td>2026-06-30 15:27:00</td><td>2633.5</td><td>13284</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -142,8 +142,8 @@ Last updated: 2026-06-30 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-06-30 15:29:00</td><td>286.29998779296875</td><td>49285</td></tr>
   <tr><td>2026-06-30 15:28:00</td><td>286.45001220703125</td><td>50052</td></tr>
-  <tr><td>2026-06-30 15:27:00</td><td>286.3500061035156</td><td>100855</td></tr>
 </table>
 
 ## NTPC_NS
