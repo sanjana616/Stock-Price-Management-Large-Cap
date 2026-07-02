@@ -28630,3 +28630,45 @@
 2026-07-02 00:01:20,385 - INFO - [ONGC_NS] Inserted 1500 rows (duplicates ignored)
 2026-07-02 00:01:20,385 - INFO - Inserted 1500 rows for ONGC.NS
 2026-07-02 00:01:20,396 - INFO - Cycle complete. README updated.
+2026-07-02 00:15:47,005 - INFO - Starting data fetch cycle...
+2026-07-02 00:15:47,850 - INFO - [RELIANCE_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:47,850 - INFO - Inserted 1500 rows for RELIANCE.NS
+2026-07-02 00:15:48,270 - INFO - [HDFCBANK_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:48,270 - INFO - Inserted 1500 rows for HDFCBANK.NS
+2026-07-02 00:15:48,726 - INFO - [ICICIBANK_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:48,726 - INFO - Inserted 1500 rows for ICICIBANK.NS
+2026-07-02 00:15:49,153 - INFO - [INFY_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:49,154 - INFO - Inserted 1500 rows for INFY.NS
+2026-07-02 00:15:49,541 - INFO - [TCS_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:49,541 - INFO - Inserted 1500 rows for TCS.NS
+2026-07-02 00:15:49,937 - INFO - [ITC_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:49,937 - INFO - Inserted 1500 rows for ITC.NS
+2026-07-02 00:15:50,281 - INFO - [HINDUNILVR_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:50,282 - INFO - Inserted 1500 rows for HINDUNILVR.NS
+2026-07-02 00:15:50,659 - INFO - [SBIN_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:50,660 - INFO - Inserted 1500 rows for SBIN.NS
+2026-07-02 00:15:51,070 - INFO - [BHARTIARTL_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:51,070 - INFO - Inserted 1500 rows for BHARTIARTL.NS
+2026-07-02 00:15:51,447 - INFO - [KOTAKBANK_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:51,447 - INFO - Inserted 1500 rows for KOTAKBANK.NS
+2026-07-02 00:15:51,781 - INFO - [LT_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:51,781 - INFO - Inserted 1500 rows for LT.NS
+2026-07-02 00:15:52,165 - INFO - [AXISBANK_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:52,166 - INFO - Inserted 1500 rows for AXISBANK.NS
+2026-07-02 00:15:52,529 - INFO - [BAJFINANCE_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:52,530 - INFO - Inserted 1500 rows for BAJFINANCE.NS
+2026-07-02 00:15:52,974 - INFO - [ASIANPAINT_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:52,974 - INFO - Inserted 1500 rows for ASIANPAINT.NS
+2026-07-02 00:15:53,469 - INFO - [MARUTI_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:53,469 - INFO - Inserted 1500 rows for MARUTI.NS
+2026-07-02 00:15:53,885 - INFO - [SUNPHARMA_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:53,885 - INFO - Inserted 1500 rows for SUNPHARMA.NS
+2026-07-02 00:15:54,261 - INFO - [WIPRO_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:54,261 - INFO - Inserted 1500 rows for WIPRO.NS
+2026-07-02 00:15:54,615 - INFO - [POWERGRID_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:54,615 - INFO - Inserted 1500 rows for POWERGRID.NS
+2026-07-02 00:15:54,980 - INFO - [NTPC_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:54,981 - INFO - Inserted 1500 rows for NTPC.NS
+2026-07-02 00:15:55,347 - INFO - [ONGC_NS] Inserted 1500 rows (duplicates ignored)
+2026-07-02 00:15:55,347 - INFO - Inserted 1500 rows for ONGC.NS
+2026-07-02 00:15:55,355 - INFO - Cycle complete. README updated.
