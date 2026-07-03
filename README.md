@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-07-03 15:45:51 IST
+Last updated: 2026-07-03 16:01:10 IST
 
 ## RELIANCE_NS
 
@@ -118,8 +118,8 @@ Last updated: 2026-07-03 15:45:51 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-03 15:29:00</td><td>14366.0</td><td>1605</td></tr>
   <tr><td>2026-07-03 15:28:00</td><td>14353.0</td><td>1494</td></tr>
-  <tr><td>2026-07-03 15:27:00</td><td>14366.0</td><td>2341</td></tr>
 </table>
 
 ## SUNPHARMA_NS
