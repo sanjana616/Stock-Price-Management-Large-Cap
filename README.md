@@ -1,13 +1,13 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-07-06 15:45:57 IST
+Last updated: 2026-07-06 16:01:07 IST
 
 ## RELIANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-06 15:29:00</td><td>1321.300048828125</td><td>32485</td></tr>
   <tr><td>2026-07-06 15:28:00</td><td>1321.5</td><td>49460</td></tr>
-  <tr><td>2026-07-06 15:27:00</td><td>1321.9000244140625</td><td>39328</td></tr>
 </table>
 
 ## HDFCBANK_NS
@@ -22,8 +22,8 @@ Last updated: 2026-07-06 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-06 15:29:00</td><td>1426.9000244140625</td><td>19915</td></tr>
   <tr><td>2026-07-06 15:28:00</td><td>1425.9000244140625</td><td>92209</td></tr>
-  <tr><td>2026-07-06 15:27:00</td><td>1427.0999755859375</td><td>96926</td></tr>
 </table>
 
 ## INFY_NS
@@ -54,8 +54,8 @@ Last updated: 2026-07-06 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-06 15:29:00</td><td>2202.0</td><td>24679</td></tr>
   <tr><td>2026-07-06 15:28:00</td><td>2200.800048828125</td><td>27949</td></tr>
-  <tr><td>2026-07-06 15:27:00</td><td>2203.0</td><td>11326</td></tr>
 </table>
 
 ## SBIN_NS
@@ -70,8 +70,8 @@ Last updated: 2026-07-06 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-06 15:29:00</td><td>1925.699951171875</td><td>9721</td></tr>
   <tr><td>2026-07-06 15:28:00</td><td>1926.0999755859375</td><td>20777</td></tr>
-  <tr><td>2026-07-06 15:27:00</td><td>1925.800048828125</td><td>25185</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -110,8 +110,8 @@ Last updated: 2026-07-06 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-06 15:29:00</td><td>2754.89990234375</td><td>3493</td></tr>
   <tr><td>2026-07-06 15:28:00</td><td>2753.5</td><td>3246</td></tr>
-  <tr><td>2026-07-06 15:27:00</td><td>2753.699951171875</td><td>4477</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -126,8 +126,8 @@ Last updated: 2026-07-06 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-06 15:29:00</td><td>1912.800048828125</td><td>5046</td></tr>
   <tr><td>2026-07-06 15:28:00</td><td>1916.0999755859375</td><td>6798</td></tr>
-  <tr><td>2026-07-06 15:27:00</td><td>1914.9000244140625</td><td>7601</td></tr>
 </table>
 
 ## WIPRO_NS
@@ -142,8 +142,8 @@ Last updated: 2026-07-06 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-06 15:29:00</td><td>285.3999938964844</td><td>75212</td></tr>
   <tr><td>2026-07-06 15:28:00</td><td>285.5</td><td>23125</td></tr>
-  <tr><td>2026-07-06 15:27:00</td><td>285.6499938964844</td><td>127679</td></tr>
 </table>
 
 ## NTPC_NS
