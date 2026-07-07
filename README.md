@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-07-07 15:45:53 IST
+Last updated: 2026-07-07 16:01:10 IST
 
 ## RELIANCE_NS
 
@@ -70,8 +70,8 @@ Last updated: 2026-07-07 15:45:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-07 15:29:00</td><td>1925.800048828125</td><td>21847</td></tr>
   <tr><td>2026-07-07 15:28:00</td><td>1922.4000244140625</td><td>23295</td></tr>
-  <tr><td>2026-07-07 15:27:00</td><td>1924.300048828125</td><td>32253</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -94,16 +94,16 @@ Last updated: 2026-07-07 15:45:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-07 15:29:00</td><td>1341.0</td><td>13082</td></tr>
   <tr><td>2026-07-07 15:28:00</td><td>1338.0</td><td>23670</td></tr>
-  <tr><td>2026-07-07 15:27:00</td><td>1338.199951171875</td><td>27352</td></tr>
 </table>
 
 ## BAJFINANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-07 15:29:00</td><td>1042.5</td><td>13710</td></tr>
   <tr><td>2026-07-07 15:28:00</td><td>1038.5999755859375</td><td>40210</td></tr>
-  <tr><td>2026-07-07 15:27:00</td><td>1037.9000244140625</td><td>23369</td></tr>
 </table>
 
 ## ASIANPAINT_NS
@@ -126,8 +126,8 @@ Last updated: 2026-07-07 15:45:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-07 15:29:00</td><td>1903.4000244140625</td><td>4063</td></tr>
   <tr><td>2026-07-07 15:28:00</td><td>1901.5</td><td>7841</td></tr>
-  <tr><td>2026-07-07 15:27:00</td><td>1901.300048828125</td><td>8139</td></tr>
 </table>
 
 ## WIPRO_NS
