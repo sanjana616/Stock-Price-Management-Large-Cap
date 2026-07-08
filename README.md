@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-07-08 15:45:53 IST
+Last updated: 2026-07-08 16:01:12 IST
 
 ## RELIANCE_NS
 
@@ -22,16 +22,16 @@ Last updated: 2026-07-08 15:45:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-08 15:29:00</td><td>1380.5999755859375</td><td>32115</td></tr>
   <tr><td>2026-07-08 15:28:00</td><td>1382.199951171875</td><td>35341</td></tr>
-  <tr><td>2026-07-08 15:27:00</td><td>1382.4000244140625</td><td>41727</td></tr>
 </table>
 
 ## INFY_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-08 15:29:00</td><td>1069.300048828125</td><td>40928</td></tr>
   <tr><td>2026-07-08 15:28:00</td><td>1070.699951171875</td><td>67657</td></tr>
-  <tr><td>2026-07-08 15:27:00</td><td>1070.9000244140625</td><td>71287</td></tr>
 </table>
 
 ## TCS_NS
@@ -158,7 +158,7 @@ Last updated: 2026-07-08 15:45:53 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-08 15:29:00</td><td>247.0</td><td>140378</td></tr>
   <tr><td>2026-07-08 15:28:00</td><td>247.19000244140625</td><td>199322</td></tr>
-  <tr><td>2026-07-08 15:27:00</td><td>247.1999969482422</td><td>97624</td></tr>
 </table>
 
