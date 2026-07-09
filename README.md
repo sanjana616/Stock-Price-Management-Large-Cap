@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-07-09 15:46:01 IST
+Last updated: 2026-07-09 16:01:18 IST
 
 ## RELIANCE_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-07-09 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-09 15:29:00</td><td>817.5499877929688</td><td>49971</td></tr>
   <tr><td>2026-07-09 15:28:00</td><td>817.4000244140625</td><td>136998</td></tr>
-  <tr><td>2026-07-09 15:27:00</td><td>816.9000244140625</td><td>230239</td></tr>
 </table>
 
 ## ICICIBANK_NS
@@ -30,8 +30,8 @@ Last updated: 2026-07-09 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-09 15:29:00</td><td>1050.800048828125</td><td>31337</td></tr>
   <tr><td>2026-07-09 15:28:00</td><td>1053.800048828125</td><td>60479</td></tr>
-  <tr><td>2026-07-09 15:27:00</td><td>1053.300048828125</td><td>76783</td></tr>
 </table>
 
 ## TCS_NS
@@ -70,8 +70,8 @@ Last updated: 2026-07-09 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-09 15:29:00</td><td>1931.0999755859375</td><td>23357</td></tr>
   <tr><td>2026-07-09 15:28:00</td><td>1931.0</td><td>35068</td></tr>
-  <tr><td>2026-07-09 15:27:00</td><td>1931.199951171875</td><td>45544</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -86,32 +86,32 @@ Last updated: 2026-07-09 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-09 15:29:00</td><td>3886.0</td><td>87967</td></tr>
   <tr><td>2026-07-09 15:28:00</td><td>3885.0</td><td>42213</td></tr>
-  <tr><td>2026-07-09 15:27:00</td><td>3885.10009765625</td><td>69783</td></tr>
 </table>
 
 ## AXISBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-09 15:29:00</td><td>1297.5999755859375</td><td>10946</td></tr>
   <tr><td>2026-07-09 15:28:00</td><td>1301.9000244140625</td><td>20830</td></tr>
-  <tr><td>2026-07-09 15:27:00</td><td>1301.5</td><td>37528</td></tr>
 </table>
 
 ## BAJFINANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-09 15:29:00</td><td>1003.7999877929688</td><td>14975</td></tr>
   <tr><td>2026-07-09 15:28:00</td><td>1003.4000244140625</td><td>38928</td></tr>
-  <tr><td>2026-07-09 15:27:00</td><td>1003.5</td><td>69998</td></tr>
 </table>
 
 ## ASIANPAINT_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-09 15:29:00</td><td>2673.800048828125</td><td>2858</td></tr>
   <tr><td>2026-07-09 15:28:00</td><td>2673.39990234375</td><td>4523</td></tr>
-  <tr><td>2026-07-09 15:27:00</td><td>2677.60009765625</td><td>4502</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -158,7 +158,7 @@ Last updated: 2026-07-09 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-09 15:29:00</td><td>243.64999389648438</td><td>158761</td></tr>
   <tr><td>2026-07-09 15:28:00</td><td>243.5500030517578</td><td>48863</td></tr>
-  <tr><td>2026-07-09 15:27:00</td><td>243.91000366210938</td><td>64225</td></tr>
 </table>
 
