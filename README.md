@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-07-10 15:45:54 IST
+Last updated: 2026-07-10 16:01:16 IST
 
 ## RELIANCE_NS
 
@@ -14,24 +14,24 @@ Last updated: 2026-07-10 15:45:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-10 15:29:00</td><td>824.9500122070312</td><td>39221</td></tr>
   <tr><td>2026-07-10 15:28:00</td><td>824.25</td><td>170914</td></tr>
-  <tr><td>2026-07-10 15:27:00</td><td>824.2999877929688</td><td>232723</td></tr>
 </table>
 
 ## ICICIBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-10 15:29:00</td><td>1401.199951171875</td><td>15221</td></tr>
   <tr><td>2026-07-10 15:28:00</td><td>1400.5</td><td>35800</td></tr>
-  <tr><td>2026-07-10 15:27:00</td><td>1400.5999755859375</td><td>34729</td></tr>
 </table>
 
 ## INFY_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-10 15:29:00</td><td>1068.0</td><td>24429</td></tr>
   <tr><td>2026-07-10 15:28:00</td><td>1067.5</td><td>37566</td></tr>
-  <tr><td>2026-07-10 15:27:00</td><td>1068.0999755859375</td><td>52507</td></tr>
 </table>
 
 ## TCS_NS
@@ -62,8 +62,8 @@ Last updated: 2026-07-10 15:45:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-10 15:29:00</td><td>1036.0</td><td>35269</td></tr>
   <tr><td>2026-07-10 15:28:00</td><td>1036.0999755859375</td><td>62345</td></tr>
-  <tr><td>2026-07-10 15:27:00</td><td>1036.5</td><td>72395</td></tr>
 </table>
 
 ## BHARTIARTL_NS
@@ -86,8 +86,8 @@ Last updated: 2026-07-10 15:45:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-10 15:29:00</td><td>3945.800048828125</td><td>7849</td></tr>
   <tr><td>2026-07-10 15:28:00</td><td>3949.0</td><td>3808</td></tr>
-  <tr><td>2026-07-10 15:27:00</td><td>3948.10009765625</td><td>4193</td></tr>
 </table>
 
 ## AXISBANK_NS
@@ -110,8 +110,8 @@ Last updated: 2026-07-10 15:45:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-10 15:29:00</td><td>2677.800048828125</td><td>2877</td></tr>
   <tr><td>2026-07-10 15:28:00</td><td>2678.39990234375</td><td>6833</td></tr>
-  <tr><td>2026-07-10 15:27:00</td><td>2678.300048828125</td><td>7353</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -126,8 +126,8 @@ Last updated: 2026-07-10 15:45:54 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-10 15:29:00</td><td>1935.5</td><td>3650</td></tr>
   <tr><td>2026-07-10 15:28:00</td><td>1933.300048828125</td><td>6387</td></tr>
-  <tr><td>2026-07-10 15:27:00</td><td>1935.4000244140625</td><td>12198</td></tr>
 </table>
 
 ## WIPRO_NS
