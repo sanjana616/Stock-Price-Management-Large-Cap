@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-07-13 15:45:57 IST
+Last updated: 2026-07-13 16:01:17 IST
 
 ## RELIANCE_NS
 
@@ -38,8 +38,8 @@ Last updated: 2026-07-13 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-13 15:29:00</td><td>2181.5</td><td>25459</td></tr>
   <tr><td>2026-07-13 15:28:00</td><td>2181.699951171875</td><td>12452</td></tr>
-  <tr><td>2026-07-13 15:27:00</td><td>2182.300048828125</td><td>29927</td></tr>
 </table>
 
 ## ITC_NS
@@ -70,8 +70,8 @@ Last updated: 2026-07-13 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-13 15:29:00</td><td>1901.800048828125</td><td>27561</td></tr>
   <tr><td>2026-07-13 15:28:00</td><td>1903.5</td><td>39629</td></tr>
-  <tr><td>2026-07-13 15:27:00</td><td>1903.0999755859375</td><td>62370</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -110,8 +110,8 @@ Last updated: 2026-07-13 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-13 15:29:00</td><td>2652.10009765625</td><td>6045</td></tr>
   <tr><td>2026-07-13 15:28:00</td><td>2650.89990234375</td><td>6585</td></tr>
-  <tr><td>2026-07-13 15:27:00</td><td>2649.699951171875</td><td>15537</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -126,8 +126,8 @@ Last updated: 2026-07-13 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-13 15:29:00</td><td>1921.4000244140625</td><td>654</td></tr>
   <tr><td>2026-07-13 15:28:00</td><td>1922.0</td><td>19061</td></tr>
-  <tr><td>2026-07-13 15:27:00</td><td>1921.699951171875</td><td>5451</td></tr>
 </table>
 
 ## WIPRO_NS
