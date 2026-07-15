@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-07-15 15:46:07 IST
+Last updated: 2026-07-15 16:01:18 IST
 
 ## RELIANCE_NS
 
@@ -30,24 +30,24 @@ Last updated: 2026-07-15 15:46:07 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-15 15:29:00</td><td>1076.300048828125</td><td>33634</td></tr>
   <tr><td>2026-07-15 15:28:00</td><td>1077.0</td><td>31626</td></tr>
-  <tr><td>2026-07-15 15:27:00</td><td>1077.199951171875</td><td>32584</td></tr>
 </table>
 
 ## TCS_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-15 15:29:00</td><td>2189.199951171875</td><td>15649</td></tr>
   <tr><td>2026-07-15 15:28:00</td><td>2184.5</td><td>22924</td></tr>
-  <tr><td>2026-07-15 15:27:00</td><td>2185.0</td><td>15156</td></tr>
 </table>
 
 ## ITC_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-15 15:29:00</td><td>276.6499938964844</td><td>52659</td></tr>
   <tr><td>2026-07-15 15:28:00</td><td>276.6499938964844</td><td>42395</td></tr>
-  <tr><td>2026-07-15 15:27:00</td><td>276.6000061035156</td><td>143392</td></tr>
 </table>
 
 ## HINDUNILVR_NS
@@ -118,8 +118,8 @@ Last updated: 2026-07-15 15:46:07 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-15 15:29:00</td><td>13583.0</td><td>640</td></tr>
   <tr><td>2026-07-15 15:28:00</td><td>13587.0</td><td>1804</td></tr>
-  <tr><td>2026-07-15 15:27:00</td><td>13593.0</td><td>4933</td></tr>
 </table>
 
 ## SUNPHARMA_NS
