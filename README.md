@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-07-16 15:46:01 IST
+Last updated: 2026-07-16 16:01:29 IST
 
 ## RELIANCE_NS
 
@@ -38,8 +38,8 @@ Last updated: 2026-07-16 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-16 15:29:00</td><td>2201.0</td><td>5292</td></tr>
   <tr><td>2026-07-16 15:28:00</td><td>2200.0</td><td>21838</td></tr>
-  <tr><td>2026-07-16 15:27:00</td><td>2198.5</td><td>18769</td></tr>
 </table>
 
 ## ITC_NS
@@ -70,8 +70,8 @@ Last updated: 2026-07-16 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-16 15:29:00</td><td>1921.800048828125</td><td>7296</td></tr>
   <tr><td>2026-07-16 15:28:00</td><td>1924.9000244140625</td><td>36723</td></tr>
-  <tr><td>2026-07-16 15:27:00</td><td>1922.4000244140625</td><td>33691</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -102,8 +102,8 @@ Last updated: 2026-07-16 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-16 15:29:00</td><td>1037.5999755859375</td><td>31524</td></tr>
   <tr><td>2026-07-16 15:28:00</td><td>1038.5</td><td>34145</td></tr>
-  <tr><td>2026-07-16 15:27:00</td><td>1037.9000244140625</td><td>87110</td></tr>
 </table>
 
 ## ASIANPAINT_NS
@@ -126,8 +126,8 @@ Last updated: 2026-07-16 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-16 15:29:00</td><td>1950.0999755859375</td><td>3941</td></tr>
   <tr><td>2026-07-16 15:28:00</td><td>1950.4000244140625</td><td>11250</td></tr>
-  <tr><td>2026-07-16 15:27:00</td><td>1950.199951171875</td><td>13588</td></tr>
 </table>
 
 ## WIPRO_NS
@@ -150,8 +150,8 @@ Last updated: 2026-07-16 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-16 15:29:00</td><td>342.45001220703125</td><td>14174</td></tr>
   <tr><td>2026-07-16 15:28:00</td><td>342.45001220703125</td><td>87833</td></tr>
-  <tr><td>2026-07-16 15:27:00</td><td>342.20001220703125</td><td>37376</td></tr>
 </table>
 
 ## ONGC_NS
