@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-07-20 15:45:55 IST
+Last updated: 2026-07-20 16:01:05 IST
 
 ## RELIANCE_NS
 
@@ -38,8 +38,8 @@ Last updated: 2026-07-20 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>2251.10009765625</td><td>7443</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>2252.89990234375</td><td>8046</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>2251.60009765625</td><td>11299</td></tr>
 </table>
 
 ## ITC_NS
@@ -70,8 +70,8 @@ Last updated: 2026-07-20 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>1940.0999755859375</td><td>15525</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>1941.199951171875</td><td>67728</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>1941.199951171875</td><td>42746</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -86,8 +86,8 @@ Last updated: 2026-07-20 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>3838.800048828125</td><td>6193</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>3839.300048828125</td><td>8402</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>3840.699951171875</td><td>10691</td></tr>
 </table>
 
 ## AXISBANK_NS
@@ -102,8 +102,8 @@ Last updated: 2026-07-20 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>1064.0</td><td>46859</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>1062.699951171875</td><td>44634</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>1063.0999755859375</td><td>18704</td></tr>
 </table>
 
 ## ASIANPAINT_NS
@@ -118,8 +118,8 @@ Last updated: 2026-07-20 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>13514.0</td><td>1012</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>13517.0</td><td>1335</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>13519.0</td><td>2197</td></tr>
 </table>
 
 ## SUNPHARMA_NS
@@ -150,8 +150,8 @@ Last updated: 2026-07-20 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-20 15:29:00</td><td>347.25</td><td>24501</td></tr>
   <tr><td>2026-07-20 15:28:00</td><td>347.20001220703125</td><td>66297</td></tr>
-  <tr><td>2026-07-20 15:27:00</td><td>347.6499938964844</td><td>77080</td></tr>
 </table>
 
 ## ONGC_NS
