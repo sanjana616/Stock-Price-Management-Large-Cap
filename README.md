@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-07-22 15:46:10 IST
+Last updated: 2026-07-22 16:01:02 IST
 
 ## RELIANCE_NS
 
@@ -22,8 +22,8 @@ Last updated: 2026-07-22 15:46:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>1440.699951171875</td><td>39349</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>1440.0</td><td>116828</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>1440.0</td><td>142858</td></tr>
 </table>
 
 ## INFY_NS
@@ -38,8 +38,8 @@ Last updated: 2026-07-22 15:46:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>2208.300048828125</td><td>10219</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>2206.800048828125</td><td>13383</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>2207.89990234375</td><td>9028</td></tr>
 </table>
 
 ## ITC_NS
@@ -54,8 +54,8 @@ Last updated: 2026-07-22 15:46:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>2154.60009765625</td><td>1917</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>2158.0</td><td>4728</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>2156.39990234375</td><td>4714</td></tr>
 </table>
 
 ## SBIN_NS
@@ -86,16 +86,16 @@ Last updated: 2026-07-22 15:46:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>3817.39990234375</td><td>11072</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>3810.5</td><td>17588</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>3815.10009765625</td><td>8376</td></tr>
 </table>
 
 ## AXISBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>1238.4000244140625</td><td>138158</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>1235.300048828125</td><td>156948</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>1235.800048828125</td><td>125573</td></tr>
 </table>
 
 ## BAJFINANCE_NS
@@ -110,8 +110,8 @@ Last updated: 2026-07-22 15:46:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>2692.800048828125</td><td>2418</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>2693.5</td><td>1464</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>2693.699951171875</td><td>11236</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -134,8 +134,8 @@ Last updated: 2026-07-22 15:46:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>174.44000244140625</td><td>20078</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>174.41000366210938</td><td>40834</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>174.4499969482422</td><td>39351</td></tr>
 </table>
 
 ## POWERGRID_NS
@@ -158,7 +158,7 @@ Last updated: 2026-07-22 15:46:10 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-22 15:29:00</td><td>251.89999389648438</td><td>128422</td></tr>
   <tr><td>2026-07-22 15:28:00</td><td>251.77000427246094</td><td>79130</td></tr>
-  <tr><td>2026-07-22 15:27:00</td><td>251.75999450683594</td><td>63630</td></tr>
 </table>
 
