@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-07-23 15:46:01 IST
+Last updated: 2026-07-23 16:01:12 IST
 
 ## RELIANCE_NS
 
@@ -14,16 +14,16 @@ Last updated: 2026-07-23 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-23 15:29:00</td><td>747.25</td><td>53840</td></tr>
   <tr><td>2026-07-23 15:28:00</td><td>745.5</td><td>94066</td></tr>
-  <tr><td>2026-07-23 15:27:00</td><td>745.2000122070312</td><td>161011</td></tr>
 </table>
 
 ## ICICIBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-23 15:29:00</td><td>1434.5999755859375</td><td>105967</td></tr>
   <tr><td>2026-07-23 15:28:00</td><td>1434.800048828125</td><td>41940</td></tr>
-  <tr><td>2026-07-23 15:27:00</td><td>1434.0</td><td>84038</td></tr>
 </table>
 
 ## INFY_NS
@@ -70,8 +70,8 @@ Last updated: 2026-07-23 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-23 15:29:00</td><td>1931.0</td><td>12840</td></tr>
   <tr><td>2026-07-23 15:28:00</td><td>1931.0</td><td>36360</td></tr>
-  <tr><td>2026-07-23 15:27:00</td><td>1931.199951171875</td><td>59998</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -110,8 +110,8 @@ Last updated: 2026-07-23 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-23 15:29:00</td><td>2668.800048828125</td><td>2203</td></tr>
   <tr><td>2026-07-23 15:28:00</td><td>2669.39990234375</td><td>4266</td></tr>
-  <tr><td>2026-07-23 15:27:00</td><td>2669.800048828125</td><td>8231</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -150,8 +150,8 @@ Last updated: 2026-07-23 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-23 15:29:00</td><td>348.6000061035156</td><td>13590</td></tr>
   <tr><td>2026-07-23 15:28:00</td><td>348.3999938964844</td><td>37812</td></tr>
-  <tr><td>2026-07-23 15:27:00</td><td>348.70001220703125</td><td>74292</td></tr>
 </table>
 
 ## ONGC_NS
