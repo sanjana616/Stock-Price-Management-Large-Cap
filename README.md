@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-07-24 15:45:50 IST
+Last updated: 2026-07-24 16:01:16 IST
 
 ## RELIANCE_NS
 
@@ -22,8 +22,8 @@ Last updated: 2026-07-24 15:45:50 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-24 15:29:00</td><td>1432.9000244140625</td><td>8346</td></tr>
   <tr><td>2026-07-24 15:28:00</td><td>1435.5</td><td>31578</td></tr>
-  <tr><td>2026-07-24 15:27:00</td><td>1435.300048828125</td><td>36679</td></tr>
 </table>
 
 ## INFY_NS
