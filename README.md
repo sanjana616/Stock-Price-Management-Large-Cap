@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-07-28 15:31:24 IST
+Last updated: 2026-07-28 15:45:58 IST
 
 ## RELIANCE_NS
 
@@ -102,8 +102,8 @@ Last updated: 2026-07-28 15:31:24 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-28 15:29:00</td><td>1048.4000244140625</td><td>27964</td></tr>
   <tr><td>2026-07-28 15:28:00</td><td>1052.4000244140625</td><td>34992</td></tr>
-  <tr><td>2026-07-28 15:27:00</td><td>1052.0</td><td>41256</td></tr>
 </table>
 
 ## ASIANPAINT_NS
