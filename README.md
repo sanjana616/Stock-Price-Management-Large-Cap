@@ -1,13 +1,13 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-07-31 15:45:55 IST
+Last updated: 2026-07-31 16:01:17 IST
 
 ## RELIANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-31 15:29:00</td><td>1307.800048828125</td><td>26351</td></tr>
   <tr><td>2026-07-31 15:28:00</td><td>1304.300048828125</td><td>74482</td></tr>
-  <tr><td>2026-07-31 15:27:00</td><td>1307.199951171875</td><td>60830</td></tr>
 </table>
 
 ## HDFCBANK_NS
@@ -62,16 +62,16 @@ Last updated: 2026-07-31 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-31 15:29:00</td><td>1027.4000244140625</td><td>22419</td></tr>
   <tr><td>2026-07-31 15:28:00</td><td>1027.300048828125</td><td>58283</td></tr>
-  <tr><td>2026-07-31 15:27:00</td><td>1027.199951171875</td><td>116060</td></tr>
 </table>
 
 ## BHARTIARTL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-31 15:29:00</td><td>1972.0</td><td>12133</td></tr>
   <tr><td>2026-07-31 15:28:00</td><td>1965.9000244140625</td><td>38250</td></tr>
-  <tr><td>2026-07-31 15:27:00</td><td>1969.199951171875</td><td>60460</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -94,8 +94,8 @@ Last updated: 2026-07-31 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-31 15:29:00</td><td>1229.5</td><td>12292</td></tr>
   <tr><td>2026-07-31 15:28:00</td><td>1228.5</td><td>32304</td></tr>
-  <tr><td>2026-07-31 15:27:00</td><td>1228.0</td><td>42708</td></tr>
 </table>
 
 ## BAJFINANCE_NS
@@ -110,8 +110,8 @@ Last updated: 2026-07-31 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-31 15:29:00</td><td>2747.300048828125</td><td>2824</td></tr>
   <tr><td>2026-07-31 15:28:00</td><td>2734.39990234375</td><td>6274</td></tr>
-  <tr><td>2026-07-31 15:27:00</td><td>2738.0</td><td>9817</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -150,8 +150,8 @@ Last updated: 2026-07-31 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-07-31 15:29:00</td><td>347.25</td><td>214017</td></tr>
   <tr><td>2026-07-31 15:28:00</td><td>347.20001220703125</td><td>122897</td></tr>
-  <tr><td>2026-07-31 15:27:00</td><td>347.0</td><td>141646</td></tr>
 </table>
 
 ## ONGC_NS
