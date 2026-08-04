@@ -1,29 +1,29 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-04 15:45:58 IST
+Last updated: 2026-08-04 16:01:13 IST
 
 ## RELIANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:15:00</td><td>1290.9000244140625</td><td>500859</td></tr>
   <tr><td>2026-08-04 15:14:00</td><td>1290.5999755859375</td><td>127611</td></tr>
-  <tr><td>2026-08-04 15:13:00</td><td>1290.0</td><td>67725</td></tr>
 </table>
 
 ## HDFCBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:15:00</td><td>742.0</td><td>810788</td></tr>
   <tr><td>2026-08-04 15:14:00</td><td>738.2999877929688</td><td>240710</td></tr>
-  <tr><td>2026-08-04 15:13:00</td><td>739.2000122070312</td><td>160276</td></tr>
 </table>
 
 ## ICICIBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:15:00</td><td>1454.5999755859375</td><td>585427</td></tr>
   <tr><td>2026-08-04 15:14:00</td><td>1440.0</td><td>94155</td></tr>
-  <tr><td>2026-08-04 15:13:00</td><td>1438.5</td><td>77513</td></tr>
 </table>
 
 ## INFY_NS
@@ -118,8 +118,8 @@ Last updated: 2026-08-04 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:15:00</td><td>14168.0</td><td>10527</td></tr>
   <tr><td>2026-08-04 15:14:00</td><td>14147.0</td><td>5579</td></tr>
-  <tr><td>2026-08-04 15:13:00</td><td>14152.0</td><td>833</td></tr>
 </table>
 
 ## SUNPHARMA_NS
@@ -150,8 +150,8 @@ Last updated: 2026-08-04 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-04 15:15:00</td><td>343.6499938964844</td><td>343917</td></tr>
   <tr><td>2026-08-04 15:14:00</td><td>341.95001220703125</td><td>37933</td></tr>
-  <tr><td>2026-08-04 15:13:00</td><td>341.8999938964844</td><td>30013</td></tr>
 </table>
 
 ## ONGC_NS
