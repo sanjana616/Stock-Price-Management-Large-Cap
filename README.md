@@ -1,13 +1,13 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-05 15:45:55 IST
+Last updated: 2026-08-05 16:01:15 IST
 
 ## RELIANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-05 15:15:00</td><td>1280.0</td><td>266176</td></tr>
   <tr><td>2026-08-05 15:14:00</td><td>1280.0</td><td>232638</td></tr>
-  <tr><td>2026-08-05 15:13:00</td><td>1274.300048828125</td><td>615891</td></tr>
 </table>
 
 ## HDFCBANK_NS
@@ -54,24 +54,24 @@ Last updated: 2026-08-05 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-05 15:15:00</td><td>2085.300048828125</td><td>53282</td></tr>
   <tr><td>2026-08-05 15:14:00</td><td>2085.0</td><td>12956</td></tr>
-  <tr><td>2026-08-05 15:13:00</td><td>2079.800048828125</td><td>6479</td></tr>
 </table>
 
 ## SBIN_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-05 15:15:00</td><td>1055.0</td><td>156069</td></tr>
   <tr><td>2026-08-05 15:14:00</td><td>1053.5</td><td>35997</td></tr>
-  <tr><td>2026-08-05 15:13:00</td><td>1053.800048828125</td><td>29885</td></tr>
 </table>
 
 ## BHARTIARTL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-05 15:15:00</td><td>1978.0</td><td>332803</td></tr>
   <tr><td>2026-08-05 15:14:00</td><td>1961.199951171875</td><td>36837</td></tr>
-  <tr><td>2026-08-05 15:13:00</td><td>1959.0</td><td>59601</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -86,8 +86,8 @@ Last updated: 2026-08-05 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-05 15:15:00</td><td>4057.0</td><td>60321</td></tr>
   <tr><td>2026-08-05 15:14:00</td><td>4050.0</td><td>8370</td></tr>
-  <tr><td>2026-08-05 15:13:00</td><td>4047.0</td><td>4524</td></tr>
 </table>
 
 ## AXISBANK_NS
@@ -142,8 +142,8 @@ Last updated: 2026-08-05 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-05 15:15:00</td><td>281.75</td><td>227803</td></tr>
   <tr><td>2026-08-05 15:14:00</td><td>282.0</td><td>89761</td></tr>
-  <tr><td>2026-08-05 15:13:00</td><td>281.95001220703125</td><td>34453</td></tr>
 </table>
 
 ## NTPC_NS
@@ -158,7 +158,7 @@ Last updated: 2026-08-05 15:45:55 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-05 15:15:00</td><td>240.1999969482422</td><td>558567</td></tr>
   <tr><td>2026-08-05 15:14:00</td><td>239.39999389648438</td><td>92289</td></tr>
-  <tr><td>2026-08-05 15:13:00</td><td>239.39999389648438</td><td>49783</td></tr>
 </table>
 
