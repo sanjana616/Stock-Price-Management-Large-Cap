@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-06 15:31:18 IST
+Last updated: 2026-08-06 15:45:56 IST
 
 ## RELIANCE_NS
 
@@ -30,24 +30,24 @@ Last updated: 2026-08-06 15:31:18 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>1165.0</td><td>387840</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>1165.5</td><td>42203</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>1165.5999755859375</td><td>37558</td></tr>
 </table>
 
 ## TCS_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>2373.0</td><td>75808</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>2374.0</td><td>9596</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>2370.800048828125</td><td>12536</td></tr>
 </table>
 
 ## ITC_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>285.8999938964844</td><td>434396</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>285.04998779296875</td><td>33414</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>285.0</td><td>64029</td></tr>
 </table>
 
 ## HINDUNILVR_NS
@@ -102,16 +102,16 @@ Last updated: 2026-08-06 15:31:18 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>1144.800048828125</td><td>282953</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>1152.0</td><td>11947</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>1151.9000244140625</td><td>49338</td></tr>
 </table>
 
 ## ASIANPAINT_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>2755.0</td><td>68650</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>2755.0</td><td>6752</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>2746.10009765625</td><td>3085</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -134,8 +134,8 @@ Last updated: 2026-08-06 15:31:18 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>186.1199951171875</td><td>217588</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>185.83999633789062</td><td>27873</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>185.8300018310547</td><td>39399</td></tr>
 </table>
 
 ## POWERGRID_NS
