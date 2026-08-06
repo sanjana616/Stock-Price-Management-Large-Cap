@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-06 15:45:56 IST
+Last updated: 2026-08-06 16:01:19 IST
 
 ## RELIANCE_NS
 
@@ -14,16 +14,16 @@ Last updated: 2026-08-06 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>734.2999877929688</td><td>877076</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>734.0</td><td>163317</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>734.0999755859375</td><td>156730</td></tr>
 </table>
 
 ## ICICIBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>1457.5</td><td>616028</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>1458.800048828125</td><td>24152</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>1457.800048828125</td><td>79287</td></tr>
 </table>
 
 ## INFY_NS
@@ -54,48 +54,48 @@ Last updated: 2026-08-06 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>2079.5</td><td>72299</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>2085.0</td><td>6677</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>2084.800048828125</td><td>8680</td></tr>
 </table>
 
 ## SBIN_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>1085.0</td><td>236194</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>1085.5999755859375</td><td>108734</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>1087.0</td><td>89743</td></tr>
 </table>
 
 ## BHARTIARTL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>1948.0</td><td>310648</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>1948.0999755859375</td><td>20373</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>1946.699951171875</td><td>23916</td></tr>
 </table>
 
 ## KOTAKBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>394.0</td><td>561303</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>395.3500061035156</td><td>32723</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>395.3500061035156</td><td>45956</td></tr>
 </table>
 
 ## LT_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>4061.800048828125</td><td>35627</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>4060.0</td><td>5013</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>4061.89990234375</td><td>3706</td></tr>
 </table>
 
 ## AXISBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>1256.0</td><td>235833</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>1256.0</td><td>10323</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>1255.800048828125</td><td>14013</td></tr>
 </table>
 
 ## BAJFINANCE_NS
@@ -118,16 +118,16 @@ Last updated: 2026-08-06 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>14080.0</td><td>13171</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>14034.0</td><td>1461</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>14034.0</td><td>841</td></tr>
 </table>
 
 ## SUNPHARMA_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>1951.0</td><td>67231</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>1949.5999755859375</td><td>5657</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>1949.5</td><td>4447</td></tr>
 </table>
 
 ## WIPRO_NS
@@ -142,8 +142,8 @@ Last updated: 2026-08-06 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>270.75</td><td>434628</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>270.8999938964844</td><td>65166</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>270.6000061035156</td><td>64870</td></tr>
 </table>
 
 ## NTPC_NS
@@ -158,7 +158,7 @@ Last updated: 2026-08-06 15:45:56 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-06 15:15:00</td><td>237.8000030517578</td><td>527714</td></tr>
   <tr><td>2026-08-06 15:14:00</td><td>237.39999389648438</td><td>61993</td></tr>
-  <tr><td>2026-08-06 15:13:00</td><td>237.4199981689453</td><td>34489</td></tr>
 </table>
 
