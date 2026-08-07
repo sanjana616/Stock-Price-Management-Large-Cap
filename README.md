@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-07 15:31:21 IST
+Last updated: 2026-08-07 15:45:55 IST
 
 ## RELIANCE_NS
 
@@ -86,8 +86,8 @@ Last updated: 2026-08-07 15:31:21 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-07 15:15:00</td><td>4056.0</td><td>44841</td></tr>
   <tr><td>2026-08-07 15:14:00</td><td>4040.0</td><td>4956</td></tr>
-  <tr><td>2026-08-07 15:13:00</td><td>4039.60009765625</td><td>3157</td></tr>
 </table>
 
 ## AXISBANK_NS
@@ -142,23 +142,23 @@ Last updated: 2026-08-07 15:31:21 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-07 15:15:00</td><td>271.6000061035156</td><td>374244</td></tr>
   <tr><td>2026-08-07 15:14:00</td><td>271.5</td><td>35899</td></tr>
-  <tr><td>2026-08-07 15:13:00</td><td>271.5</td><td>29143</td></tr>
 </table>
 
 ## NTPC_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-07 15:15:00</td><td>342.5</td><td>500742</td></tr>
   <tr><td>2026-08-07 15:14:00</td><td>343.95001220703125</td><td>16043</td></tr>
-  <tr><td>2026-08-07 15:13:00</td><td>343.6000061035156</td><td>33202</td></tr>
 </table>
 
 ## ONGC_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-07 15:15:00</td><td>238.85000610351562</td><td>261908</td></tr>
   <tr><td>2026-08-07 15:14:00</td><td>237.3800048828125</td><td>43910</td></tr>
-  <tr><td>2026-08-07 15:13:00</td><td>237.1999969482422</td><td>21072</td></tr>
 </table>
 
