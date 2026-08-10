@@ -1,13 +1,13 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-10 15:31:30 IST
+Last updated: 2026-08-10 15:46:15 IST
 
 ## RELIANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-10 15:15:00</td><td>1327.300048828125</td><td>304041</td></tr>
   <tr><td>2026-08-10 15:14:00</td><td>1326.5999755859375</td><td>44373</td></tr>
-  <tr><td>2026-08-10 15:13:00</td><td>1326.0</td><td>55547</td></tr>
 </table>
 
 ## HDFCBANK_NS
@@ -62,8 +62,8 @@ Last updated: 2026-08-10 15:31:30 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-10 15:15:00</td><td>1071.0</td><td>93671</td></tr>
   <tr><td>2026-08-10 15:14:00</td><td>1071.0</td><td>50997</td></tr>
-  <tr><td>2026-08-10 15:13:00</td><td>1071.0999755859375</td><td>33003</td></tr>
 </table>
 
 ## BHARTIARTL_NS
