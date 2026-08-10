@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-10 15:46:15 IST
+Last updated: 2026-08-10 16:01:13 IST
 
 ## RELIANCE_NS
 
@@ -46,8 +46,8 @@ Last updated: 2026-08-10 15:46:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-10 15:15:00</td><td>282.6499938964844</td><td>123754</td></tr>
   <tr><td>2026-08-10 15:14:00</td><td>281.95001220703125</td><td>162693</td></tr>
-  <tr><td>2026-08-10 15:13:00</td><td>282.1000061035156</td><td>79184</td></tr>
 </table>
 
 ## HINDUNILVR_NS
@@ -102,8 +102,8 @@ Last updated: 2026-08-10 15:46:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-10 15:15:00</td><td>1102.199951171875</td><td>118988</td></tr>
   <tr><td>2026-08-10 15:14:00</td><td>1105.0</td><td>140428</td></tr>
-  <tr><td>2026-08-10 15:13:00</td><td>1099.199951171875</td><td>83823</td></tr>
 </table>
 
 ## ASIANPAINT_NS
