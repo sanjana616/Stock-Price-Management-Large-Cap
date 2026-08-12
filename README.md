@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-12 15:31:31 IST
+Last updated: 2026-08-12 15:45:56 IST
 
 ## RELIANCE_NS
 
@@ -70,8 +70,8 @@ Last updated: 2026-08-12 15:31:31 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-12 15:15:00</td><td>1945.0</td><td>757961</td></tr>
   <tr><td>2026-08-12 15:14:00</td><td>1918.0</td><td>517307</td></tr>
-  <tr><td>2026-08-12 15:13:00</td><td>1915.0</td><td>848465</td></tr>
 </table>
 
 ## KOTAKBANK_NS
