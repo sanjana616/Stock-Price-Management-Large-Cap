@@ -1,13 +1,13 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-13 15:31:35 IST
+Last updated: 2026-08-13 15:45:58 IST
 
 ## RELIANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:15:00</td><td>1317.0</td><td>511504</td></tr>
   <tr><td>2026-08-13 15:14:00</td><td>1313.5999755859375</td><td>18469</td></tr>
-  <tr><td>2026-08-13 15:13:00</td><td>1314.0999755859375</td><td>29966</td></tr>
 </table>
 
 ## HDFCBANK_NS
@@ -38,8 +38,8 @@ Last updated: 2026-08-13 15:31:35 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:15:00</td><td>2375.0</td><td>72374</td></tr>
   <tr><td>2026-08-13 15:14:00</td><td>2367.0</td><td>14020</td></tr>
-  <tr><td>2026-08-13 15:13:00</td><td>2366.89990234375</td><td>6790</td></tr>
 </table>
 
 ## ITC_NS
@@ -94,8 +94,8 @@ Last updated: 2026-08-13 15:31:35 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:15:00</td><td>1221.800048828125</td><td>161773</td></tr>
   <tr><td>2026-08-13 15:14:00</td><td>1221.5</td><td>14237</td></tr>
-  <tr><td>2026-08-13 15:13:00</td><td>1221.4000244140625</td><td>19637</td></tr>
 </table>
 
 ## BAJFINANCE_NS
@@ -134,8 +134,8 @@ Last updated: 2026-08-13 15:31:35 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:15:00</td><td>183.10000610351562</td><td>284943</td></tr>
   <tr><td>2026-08-13 15:14:00</td><td>183.25</td><td>19342</td></tr>
-  <tr><td>2026-08-13 15:13:00</td><td>183.27000427246094</td><td>41928</td></tr>
 </table>
 
 ## POWERGRID_NS
