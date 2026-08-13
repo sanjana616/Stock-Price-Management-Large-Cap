@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-13 15:45:58 IST
+Last updated: 2026-08-13 16:01:14 IST
 
 ## RELIANCE_NS
 
@@ -62,16 +62,16 @@ Last updated: 2026-08-13 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:15:00</td><td>1083.0</td><td>390578</td></tr>
   <tr><td>2026-08-13 15:14:00</td><td>1076.5999755859375</td><td>15407</td></tr>
-  <tr><td>2026-08-13 15:13:00</td><td>1076.9000244140625</td><td>31896</td></tr>
 </table>
 
 ## BHARTIARTL_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:15:00</td><td>1939.0999755859375</td><td>234573</td></tr>
   <tr><td>2026-08-13 15:14:00</td><td>1938.0</td><td>16525</td></tr>
-  <tr><td>2026-08-13 15:13:00</td><td>1939.0999755859375</td><td>57144</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -150,15 +150,15 @@ Last updated: 2026-08-13 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:15:00</td><td>344.25</td><td>237687</td></tr>
   <tr><td>2026-08-13 15:14:00</td><td>342.5</td><td>16703</td></tr>
-  <tr><td>2026-08-13 15:13:00</td><td>343.20001220703125</td><td>34177</td></tr>
 </table>
 
 ## ONGC_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-13 15:15:00</td><td>239.89999389648438</td><td>481627</td></tr>
   <tr><td>2026-08-13 15:14:00</td><td>239.35000610351562</td><td>34555</td></tr>
-  <tr><td>2026-08-13 15:13:00</td><td>239.35000610351562</td><td>49999</td></tr>
 </table>
 
