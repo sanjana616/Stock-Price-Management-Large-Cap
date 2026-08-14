@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-14 15:45:58 IST
+Last updated: 2026-08-14 16:01:10 IST
 
 ## RELIANCE_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-08-14 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-14 15:15:00</td><td>727.0</td><td>740753</td></tr>
   <tr><td>2026-08-14 15:14:00</td><td>727.0</td><td>60440</td></tr>
-  <tr><td>2026-08-14 15:13:00</td><td>727.0</td><td>102840</td></tr>
 </table>
 
 ## ICICIBANK_NS
@@ -30,8 +30,8 @@ Last updated: 2026-08-14 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-14 15:15:00</td><td>1169.199951171875</td><td>179528</td></tr>
   <tr><td>2026-08-14 15:14:00</td><td>1169.199951171875</td><td>25834</td></tr>
-  <tr><td>2026-08-14 15:13:00</td><td>1169.699951171875</td><td>31754</td></tr>
 </table>
 
 ## TCS_NS
@@ -78,8 +78,8 @@ Last updated: 2026-08-14 15:45:58 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-14 15:15:00</td><td>391.1499938964844</td><td>386731</td></tr>
   <tr><td>2026-08-14 15:14:00</td><td>392.1000061035156</td><td>20366</td></tr>
-  <tr><td>2026-08-14 15:13:00</td><td>392.6000061035156</td><td>64286</td></tr>
 </table>
 
 ## LT_NS
