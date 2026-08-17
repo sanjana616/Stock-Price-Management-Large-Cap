@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-17 15:45:57 IST
+Last updated: 2026-08-17 16:01:14 IST
 
 ## RELIANCE_NS
 
@@ -14,24 +14,24 @@ Last updated: 2026-08-17 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-17 15:15:00</td><td>729.0</td><td>662205</td></tr>
   <tr><td>2026-08-17 15:14:00</td><td>731.3499755859375</td><td>80059</td></tr>
-  <tr><td>2026-08-17 15:13:00</td><td>731.7999877929688</td><td>221278</td></tr>
 </table>
 
 ## ICICIBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-17 15:15:00</td><td>1415.300048828125</td><td>282883</td></tr>
   <tr><td>2026-08-17 15:14:00</td><td>1421.0</td><td>550601</td></tr>
-  <tr><td>2026-08-17 15:13:00</td><td>1423.0</td><td>22231</td></tr>
 </table>
 
 ## INFY_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-17 15:15:00</td><td>1139.9000244140625</td><td>190342</td></tr>
   <tr><td>2026-08-17 15:14:00</td><td>1137.0</td><td>594128</td></tr>
-  <tr><td>2026-08-17 15:13:00</td><td>1138.5999755859375</td><td>72763</td></tr>
 </table>
 
 ## TCS_NS
@@ -126,8 +126,8 @@ Last updated: 2026-08-17 15:45:57 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-17 15:15:00</td><td>1882.0</td><td>46712</td></tr>
   <tr><td>2026-08-17 15:14:00</td><td>1881.0</td><td>59865</td></tr>
-  <tr><td>2026-08-17 15:13:00</td><td>1882.4000244140625</td><td>67339</td></tr>
 </table>
 
 ## WIPRO_NS
