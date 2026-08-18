@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-18 15:31:26 IST
+Last updated: 2026-08-18 15:46:00 IST
 
 ## RELIANCE_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-08-18 15:31:26 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-18 15:15:00</td><td>723.0</td><td>1136441</td></tr>
   <tr><td>2026-08-18 15:14:00</td><td>723.25</td><td>205304</td></tr>
-  <tr><td>2026-08-18 15:13:00</td><td>723.3499755859375</td><td>148654</td></tr>
 </table>
 
 ## ICICIBANK_NS
@@ -38,8 +38,8 @@ Last updated: 2026-08-18 15:31:26 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-18 15:15:00</td><td>2280.0</td><td>117497</td></tr>
   <tr><td>2026-08-18 15:14:00</td><td>2282.300048828125</td><td>21077</td></tr>
-  <tr><td>2026-08-18 15:13:00</td><td>2285.5</td><td>9240</td></tr>
 </table>
 
 ## ITC_NS
