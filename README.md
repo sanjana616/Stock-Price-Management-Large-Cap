@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-19 15:46:00 IST
+Last updated: 2026-08-19 16:01:17 IST
 
 ## RELIANCE_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-08-19 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>720.0</td><td>806061</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>720.5499877929688</td><td>48031</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>720.4000244140625</td><td>83721</td></tr>
 </table>
 
 ## ICICIBANK_NS
@@ -38,8 +38,8 @@ Last updated: 2026-08-19 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>2289.0</td><td>79808</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>2287.0</td><td>5980</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>2286.199951171875</td><td>7325</td></tr>
 </table>
 
 ## ITC_NS
@@ -102,8 +102,8 @@ Last updated: 2026-08-19 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>1080.199951171875</td><td>154563</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>1080.5999755859375</td><td>6192</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>1079.800048828125</td><td>25710</td></tr>
 </table>
 
 ## ASIANPAINT_NS
@@ -142,16 +142,16 @@ Last updated: 2026-08-19 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>263.5</td><td>261433</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>262.54998779296875</td><td>23982</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>262.54998779296875</td><td>32885</td></tr>
 </table>
 
 ## NTPC_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>336.54998779296875</td><td>224037</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>334.8500061035156</td><td>13161</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>334.8500061035156</td><td>133591</td></tr>
 </table>
 
 ## ONGC_NS
