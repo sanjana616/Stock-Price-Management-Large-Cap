@@ -1,13 +1,13 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-19 15:31:27 IST
+Last updated: 2026-08-19 15:46:00 IST
 
 ## RELIANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>1311.0</td><td>340017</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>1306.9000244140625</td><td>26111</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>1307.5</td><td>44557</td></tr>
 </table>
 
 ## HDFCBANK_NS
@@ -70,8 +70,8 @@ Last updated: 2026-08-19 15:31:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>1922.0</td><td>1658733</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>1929.0999755859375</td><td>19366</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>1930.300048828125</td><td>18947</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -86,16 +86,16 @@ Last updated: 2026-08-19 15:31:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>4041.300048828125</td><td>39950</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>4029.300048828125</td><td>4259</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>4038.0</td><td>6087</td></tr>
 </table>
 
 ## AXISBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>1235.0</td><td>183252</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>1235.9000244140625</td><td>10724</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>1236.800048828125</td><td>11032</td></tr>
 </table>
 
 ## BAJFINANCE_NS
@@ -110,8 +110,8 @@ Last updated: 2026-08-19 15:31:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>2630.800048828125</td><td>32993</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>2620.89990234375</td><td>2563</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>2621.0</td><td>877</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -158,7 +158,7 @@ Last updated: 2026-08-19 15:31:27 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-19 15:15:00</td><td>238.0</td><td>430496</td></tr>
   <tr><td>2026-08-19 15:14:00</td><td>237.77999877929688</td><td>96449</td></tr>
-  <tr><td>2026-08-19 15:13:00</td><td>237.85000610351562</td><td>241613</td></tr>
 </table>
 
