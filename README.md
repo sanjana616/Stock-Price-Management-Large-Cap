@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-24 15:46:00 IST
+Last updated: 2026-08-24 16:01:13 IST
 
 ## RELIANCE_NS
 
@@ -78,8 +78,8 @@ Last updated: 2026-08-24 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-24 15:15:00</td><td>401.45001220703125</td><td>324941</td></tr>
   <tr><td>2026-08-24 15:14:00</td><td>400.3500061035156</td><td>48484</td></tr>
-  <tr><td>2026-08-24 15:13:00</td><td>400.8999938964844</td><td>387900</td></tr>
 </table>
 
 ## LT_NS
@@ -94,8 +94,8 @@ Last updated: 2026-08-24 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-24 15:15:00</td><td>1236.0</td><td>112138</td></tr>
   <tr><td>2026-08-24 15:14:00</td><td>1235.699951171875</td><td>15333</td></tr>
-  <tr><td>2026-08-24 15:13:00</td><td>1235.699951171875</td><td>18753</td></tr>
 </table>
 
 ## BAJFINANCE_NS
