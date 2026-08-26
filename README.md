@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-26 15:31:29 IST
+Last updated: 2026-08-26 15:46:01 IST
 
 ## RELIANCE_NS
 
@@ -150,15 +150,15 @@ Last updated: 2026-08-26 15:31:29 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-26 15:15:00</td><td>334.6000061035156</td><td>192990</td></tr>
   <tr><td>2026-08-26 15:14:00</td><td>336.95001220703125</td><td>13722</td></tr>
-  <tr><td>2026-08-26 15:13:00</td><td>336.29998779296875</td><td>13283</td></tr>
 </table>
 
 ## ONGC_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-26 15:15:00</td><td>232.2100067138672</td><td>203157</td></tr>
   <tr><td>2026-08-26 15:14:00</td><td>233.44000244140625</td><td>49804</td></tr>
-  <tr><td>2026-08-26 15:13:00</td><td>233.72999572753906</td><td>106308</td></tr>
 </table>
 
