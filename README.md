@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-26 15:46:01 IST
+Last updated: 2026-08-26 16:01:14 IST
 
 ## RELIANCE_NS
 
@@ -86,8 +86,8 @@ Last updated: 2026-08-26 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-26 15:15:00</td><td>4038.10009765625</td><td>40267</td></tr>
   <tr><td>2026-08-26 15:14:00</td><td>4052.0</td><td>6067</td></tr>
-  <tr><td>2026-08-26 15:13:00</td><td>4052.0</td><td>6572</td></tr>
 </table>
 
 ## AXISBANK_NS
@@ -118,8 +118,8 @@ Last updated: 2026-08-26 15:46:01 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-26 15:15:00</td><td>13520.0</td><td>9743</td></tr>
   <tr><td>2026-08-26 15:14:00</td><td>13569.0</td><td>1811</td></tr>
-  <tr><td>2026-08-26 15:13:00</td><td>13545.0</td><td>499</td></tr>
 </table>
 
 ## SUNPHARMA_NS
