@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-27 15:46:07 IST
+Last updated: 2026-08-27 16:01:19 IST
 
 ## RELIANCE_NS
 
@@ -14,16 +14,16 @@ Last updated: 2026-08-27 15:46:07 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-27 15:15:00</td><td>711.0</td><td>1016841</td></tr>
   <tr><td>2026-08-27 15:14:00</td><td>714.4500122070312</td><td>47302</td></tr>
-  <tr><td>2026-08-27 15:13:00</td><td>714.5</td><td>123247</td></tr>
 </table>
 
 ## ICICIBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-27 15:15:00</td><td>1443.0</td><td>455967</td></tr>
   <tr><td>2026-08-27 15:14:00</td><td>1447.0</td><td>9254</td></tr>
-  <tr><td>2026-08-27 15:13:00</td><td>1447.5</td><td>23777</td></tr>
 </table>
 
 ## INFY_NS
@@ -94,8 +94,8 @@ Last updated: 2026-08-27 15:46:07 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-27 15:15:00</td><td>1256.0</td><td>118485</td></tr>
   <tr><td>2026-08-27 15:14:00</td><td>1255.300048828125</td><td>19237</td></tr>
-  <tr><td>2026-08-27 15:13:00</td><td>1255.5</td><td>19823</td></tr>
 </table>
 
 ## BAJFINANCE_NS
@@ -118,8 +118,8 @@ Last updated: 2026-08-27 15:46:07 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-27 15:15:00</td><td>13440.0</td><td>4412</td></tr>
   <tr><td>2026-08-27 15:14:00</td><td>13445.0</td><td>7685</td></tr>
-  <tr><td>2026-08-27 15:13:00</td><td>13461.0</td><td>494</td></tr>
 </table>
 
 ## SUNPHARMA_NS
