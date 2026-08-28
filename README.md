@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-28 15:46:00 IST
+Last updated: 2026-08-28 16:01:17 IST
 
 ## RELIANCE_NS
 
@@ -14,16 +14,16 @@ Last updated: 2026-08-28 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-28 15:15:00</td><td>720.2999877929688</td><td>465508</td></tr>
   <tr><td>2026-08-28 15:14:00</td><td>719.4500122070312</td><td>50071</td></tr>
-  <tr><td>2026-08-28 15:13:00</td><td>719.3499755859375</td><td>44644</td></tr>
 </table>
 
 ## ICICIBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-28 15:15:00</td><td>1422.800048828125</td><td>146650</td></tr>
   <tr><td>2026-08-28 15:14:00</td><td>1425.4000244140625</td><td>32393</td></tr>
-  <tr><td>2026-08-28 15:13:00</td><td>1426.800048828125</td><td>21944</td></tr>
 </table>
 
 ## INFY_NS
@@ -70,8 +70,8 @@ Last updated: 2026-08-28 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-28 15:15:00</td><td>1882.4000244140625</td><td>131540</td></tr>
   <tr><td>2026-08-28 15:14:00</td><td>1881.4000244140625</td><td>13000</td></tr>
-  <tr><td>2026-08-28 15:13:00</td><td>1880.5999755859375</td><td>68886</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -110,8 +110,8 @@ Last updated: 2026-08-28 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-28 15:15:00</td><td>2608.699951171875</td><td>20622</td></tr>
   <tr><td>2026-08-28 15:14:00</td><td>2592.0</td><td>2319</td></tr>
-  <tr><td>2026-08-28 15:13:00</td><td>2595.800048828125</td><td>3588</td></tr>
 </table>
 
 ## MARUTI_NS
@@ -126,8 +126,8 @@ Last updated: 2026-08-28 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-28 15:15:00</td><td>1920.0</td><td>27436</td></tr>
   <tr><td>2026-08-28 15:14:00</td><td>1920.0999755859375</td><td>26429</td></tr>
-  <tr><td>2026-08-28 15:13:00</td><td>1927.699951171875</td><td>6662</td></tr>
 </table>
 
 ## WIPRO_NS
