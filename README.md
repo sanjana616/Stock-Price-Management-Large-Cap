@@ -1,21 +1,21 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-08-31 15:45:59 IST
+Last updated: 2026-08-31 16:01:11 IST
 
 ## RELIANCE_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-31 15:15:00</td><td>1277.0</td><td>26635062</td></tr>
   <tr><td>2026-08-31 15:14:00</td><td>1294.9000244140625</td><td>71343</td></tr>
-  <tr><td>2026-08-31 15:13:00</td><td>1295.199951171875</td><td>108770</td></tr>
 </table>
 
 ## HDFCBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-31 15:15:00</td><td>709.0</td><td>6248612</td></tr>
   <tr><td>2026-08-31 15:14:00</td><td>709.7999877929688</td><td>111757</td></tr>
-  <tr><td>2026-08-31 15:13:00</td><td>709.7000122070312</td><td>378677</td></tr>
 </table>
 
 ## ICICIBANK_NS
@@ -30,8 +30,8 @@ Last updated: 2026-08-31 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-31 15:15:00</td><td>1133.800048828125</td><td>2196035</td></tr>
   <tr><td>2026-08-31 15:14:00</td><td>1123.5</td><td>95839</td></tr>
-  <tr><td>2026-08-31 15:13:00</td><td>1127.300048828125</td><td>33934</td></tr>
 </table>
 
 ## TCS_NS
@@ -70,8 +70,8 @@ Last updated: 2026-08-31 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-31 15:15:00</td><td>1811.9000244140625</td><td>7969453</td></tr>
   <tr><td>2026-08-31 15:14:00</td><td>1869.9000244140625</td><td>134472</td></tr>
-  <tr><td>2026-08-31 15:13:00</td><td>1867.5999755859375</td><td>123660</td></tr>
 </table>
 
 ## KOTAKBANK_NS
@@ -134,8 +134,8 @@ Last updated: 2026-08-31 15:45:59 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-08-31 15:15:00</td><td>184.5</td><td>5998491</td></tr>
   <tr><td>2026-08-31 15:14:00</td><td>180.1199951171875</td><td>387745</td></tr>
-  <tr><td>2026-08-31 15:13:00</td><td>180.6999969482422</td><td>234128</td></tr>
 </table>
 
 ## POWERGRID_NS
