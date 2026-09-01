@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-09-01 15:31:25 IST
+Last updated: 2026-09-01 15:46:00 IST
 
 ## RELIANCE_NS
 
@@ -102,8 +102,8 @@ Last updated: 2026-09-01 15:31:25 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>1053.9000244140625</td><td>161783</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>1048.9000244140625</td><td>54997</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>1052.0</td><td>42942</td></tr>
 </table>
 
 ## ASIANPAINT_NS
@@ -126,8 +126,8 @@ Last updated: 2026-09-01 15:31:25 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>1929.0</td><td>86942</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>1927.0</td><td>3785</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>1922.9000244140625</td><td>9309</td></tr>
 </table>
 
 ## WIPRO_NS
