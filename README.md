@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-09-01 15:46:00 IST
+Last updated: 2026-09-01 16:01:14 IST
 
 ## RELIANCE_NS
 
@@ -14,16 +14,16 @@ Last updated: 2026-09-01 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>711.9000244140625</td><td>927024</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>709.5</td><td>47757</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>709.7999877929688</td><td>98459</td></tr>
 </table>
 
 ## ICICIBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>1438.0</td><td>562207</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>1429.9000244140625</td><td>30936</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>1426.9000244140625</td><td>131280</td></tr>
 </table>
 
 ## INFY_NS
@@ -38,8 +38,8 @@ Last updated: 2026-09-01 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>2369.0</td><td>83429</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>2355.699951171875</td><td>7372</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>2351.800048828125</td><td>12348</td></tr>
 </table>
 
 ## ITC_NS
@@ -54,8 +54,8 @@ Last updated: 2026-09-01 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>1994.800048828125</td><td>63675</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>1988.0</td><td>2725</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>1986.0</td><td>5757</td></tr>
 </table>
 
 ## SBIN_NS
@@ -70,16 +70,16 @@ Last updated: 2026-09-01 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>1877.199951171875</td><td>393118</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>1868.0</td><td>7389</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>1866.800048828125</td><td>23871</td></tr>
 </table>
 
 ## KOTAKBANK_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>425.0</td><td>683931</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>425.0</td><td>34693</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>424.8500061035156</td><td>37511</td></tr>
 </table>
 
 ## LT_NS
@@ -110,16 +110,16 @@ Last updated: 2026-09-01 15:46:00 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>2575.5</td><td>40594</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>2568.0</td><td>4365</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>2560.89990234375</td><td>2248</td></tr>
 </table>
 
 ## MARUTI_NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-01 15:15:00</td><td>12950.0</td><td>12601</td></tr>
   <tr><td>2026-09-01 15:14:00</td><td>12920.0</td><td>1139</td></tr>
-  <tr><td>2026-09-01 15:13:00</td><td>12907.0</td><td>1707</td></tr>
 </table>
 
 ## SUNPHARMA_NS
