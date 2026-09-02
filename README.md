@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-09-02 15:46:37 IST
+Last updated: 2026-09-02 16:01:12 IST
 
 ## RELIANCE_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-09-02 15:46:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-02 15:15:00</td><td>700.7999877929688</td><td>1206688</td></tr>
   <tr><td>2026-09-02 15:14:00</td><td>701.1500244140625</td><td>163120</td></tr>
-  <tr><td>2026-09-02 15:13:00</td><td>701.2000122070312</td><td>140376</td></tr>
 </table>
 
 ## ICICIBANK_NS
@@ -94,8 +94,8 @@ Last updated: 2026-09-02 15:46:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-02 15:15:00</td><td>1253.9000244140625</td><td>169854</td></tr>
   <tr><td>2026-09-02 15:14:00</td><td>1251.4000244140625</td><td>35155</td></tr>
-  <tr><td>2026-09-02 15:13:00</td><td>1252.9000244140625</td><td>37226</td></tr>
 </table>
 
 ## BAJFINANCE_NS
@@ -150,8 +150,8 @@ Last updated: 2026-09-02 15:46:37 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-02 15:15:00</td><td>330.0</td><td>314476</td></tr>
   <tr><td>2026-09-02 15:14:00</td><td>329.1499938964844</td><td>84941</td></tr>
-  <tr><td>2026-09-02 15:13:00</td><td>329.54998779296875</td><td>150166</td></tr>
 </table>
 
 ## ONGC_NS
