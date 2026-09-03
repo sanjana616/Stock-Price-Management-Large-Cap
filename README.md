@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-09-03 15:31:23 IST
+Last updated: 2026-09-03 15:46:09 IST
 
 ## RELIANCE_NS
 
@@ -86,8 +86,8 @@ Last updated: 2026-09-03 15:31:23 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-03 15:15:00</td><td>3975.0</td><td>43684</td></tr>
   <tr><td>2026-09-03 15:14:00</td><td>3993.0</td><td>5848</td></tr>
-  <tr><td>2026-09-03 15:13:00</td><td>3991.60009765625</td><td>6748</td></tr>
 </table>
 
 ## AXISBANK_NS
@@ -150,8 +150,8 @@ Last updated: 2026-09-03 15:31:23 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-03 15:15:00</td><td>330.8999938964844</td><td>293933</td></tr>
   <tr><td>2026-09-03 15:14:00</td><td>330.25</td><td>41771</td></tr>
-  <tr><td>2026-09-03 15:13:00</td><td>329.75</td><td>105048</td></tr>
 </table>
 
 ## ONGC_NS
