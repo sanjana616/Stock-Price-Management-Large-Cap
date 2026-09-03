@@ -1,6 +1,6 @@
 # Stock-Price-Management---Large-Cap
 
-Last updated: 2026-09-03 15:46:09 IST
+Last updated: 2026-09-03 16:01:11 IST
 
 ## RELIANCE_NS
 
@@ -14,8 +14,8 @@ Last updated: 2026-09-03 15:46:09 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-03 15:15:00</td><td>706.6500244140625</td><td>1091716</td></tr>
   <tr><td>2026-09-03 15:14:00</td><td>708.5</td><td>139342</td></tr>
-  <tr><td>2026-09-03 15:13:00</td><td>708.9000244140625</td><td>129501</td></tr>
 </table>
 
 ## ICICIBANK_NS
@@ -30,8 +30,8 @@ Last updated: 2026-09-03 15:46:09 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-03 15:15:00</td><td>1130.300048828125</td><td>306765</td></tr>
   <tr><td>2026-09-03 15:14:00</td><td>1132.0</td><td>82932</td></tr>
-  <tr><td>2026-09-03 15:13:00</td><td>1131.9000244140625</td><td>42898</td></tr>
 </table>
 
 ## TCS_NS
@@ -62,8 +62,8 @@ Last updated: 2026-09-03 15:46:09 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-03 15:15:00</td><td>1023.4000244140625</td><td>170670</td></tr>
   <tr><td>2026-09-03 15:14:00</td><td>1023.0</td><td>21370</td></tr>
-  <tr><td>2026-09-03 15:13:00</td><td>1023.2000122070312</td><td>28044</td></tr>
 </table>
 
 ## BHARTIARTL_NS
@@ -102,8 +102,8 @@ Last updated: 2026-09-03 15:46:09 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-03 15:15:00</td><td>1049.0</td><td>310561</td></tr>
   <tr><td>2026-09-03 15:14:00</td><td>1053.0</td><td>26137</td></tr>
-  <tr><td>2026-09-03 15:13:00</td><td>1051.300048828125</td><td>37617</td></tr>
 </table>
 
 ## ASIANPAINT_NS
@@ -118,8 +118,8 @@ Last updated: 2026-09-03 15:46:09 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-03 15:15:00</td><td>12857.0</td><td>8104</td></tr>
   <tr><td>2026-09-03 15:14:00</td><td>12846.0</td><td>1361</td></tr>
-  <tr><td>2026-09-03 15:13:00</td><td>12845.0</td><td>1773</td></tr>
 </table>
 
 ## SUNPHARMA_NS
@@ -142,8 +142,8 @@ Last updated: 2026-09-03 15:46:09 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-03 15:15:00</td><td>265.6000061035156</td><td>380739</td></tr>
   <tr><td>2026-09-03 15:14:00</td><td>266.45001220703125</td><td>34149</td></tr>
-  <tr><td>2026-09-03 15:13:00</td><td>266.79998779296875</td><td>133003</td></tr>
 </table>
 
 ## NTPC_NS
@@ -158,7 +158,7 @@ Last updated: 2026-09-03 15:46:09 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-09-03 15:15:00</td><td>236.0</td><td>195137</td></tr>
   <tr><td>2026-09-03 15:14:00</td><td>235.66000366210938</td><td>24621</td></tr>
-  <tr><td>2026-09-03 15:13:00</td><td>235.66000366210938</td><td>57983</td></tr>
 </table>
 
